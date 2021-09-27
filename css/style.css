@@ -83,14 +83,14 @@ main section {
           flex-flow: row wrap;
   width: 95vw;
   min-height: 75vh;
-  border: 1px solid white;
+  border: 2px solid white;
   border-radius: 10px;
   -webkit-box-shadow: 10px 5px 5px white;
           box-shadow: 10px 5px 5px white;
 }
 
 main section article {
-  border: 1px dotted white;
+  border: 1px solid white;
   -webkit-box-shadow: 10px 5px 5px white;
           box-shadow: 10px 5px 5px white;
   display: -ms-grid;

@@ -108,6 +108,7 @@ function idGenerator() {//função para gerar ids
 
 function criarTarefa(dataCriacao, dataLimite, descricao, id) {
     const artigo = document.createElement('article');
+    // artigo.setAttribute('id', 'visualizar')
     artigo.innerHTML =
         `
     <div class="section__box-icons">
